@@ -1,4 +1,5 @@
-# Mini-Project
+# Mini-Project - Activity Monitoring Of Any Person Through Multiple Social Media Platform Like Social Network 
+And Social Media
 <br/>Execution<br/>
 <br>sudo apt-get update<br/>
 <br> Depedning on your Linux distro, you may or may not need these 2 lines<br/>
